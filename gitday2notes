@@ -1,0 +1,26 @@
+github is a centralized repository where developers push the code
+
+it will track the changes
+
+who did the commit
+
+when did the commit happen
+
+to clone repository use the below command
+------------------------------------------------------
+
+git clone repository url
+
+after cloning the repository how to go inside the repository
+
+cd repositoryname
+
+after going inside the repository you can make changes are create new files or delete existing files
+
+after making the changes you have to push to the remote repository
+
+commands used to push to github
+--------------------------------------------
+git add .
+git commit -m "some message"
+git push
